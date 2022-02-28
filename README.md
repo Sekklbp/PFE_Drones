@@ -30,6 +30,9 @@ avoir un fichier classes.txt avec les classes à annoter<br/>
 
 
 Pour utiliser yolov5:<br/>
+dans le dossier yolov5<br/>
+pip install requirements.txt
+dans le dossier principal<br/>
 make <commande><br/>
   train2 pour entrainer sur les images fournies un bon entrainement durant une petite heure<br/>
   detect_drone_photo detecte en temps réel les photos du drone , à finir<br/>
