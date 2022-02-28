@@ -42,12 +42,13 @@ make <commande><br/>
   
  best.pt est le fichier de poids<br/>
  my-drone.yaml dans data permet de spécifier l'emplacement des images d'entrainements<br/>
-  
+ images dans data/images<br/>
+ labels associés dans data/labels<br/>
 Une fois un entrainement ou une detection finie, les résultats sont dans yolov5/runs/ detect ou train<br/>
 
 Pistes d'amélioration :<br/>
 Envoyer les commandes directement au drone via des messages UDP -> meilleure précision et amplitude de mouvements<br/>
-Essayer d'avoir la cméra en direct sur l'ordinateur<br/>
+Essayer d'avoir la caméra en direct sur l'ordinateur<br/>
 Essayer en laboratoire ( le code le plus récent n'a pas pû être testé )<br/>
   
   https://github.com/ultralytics/yolov5 <br/>
