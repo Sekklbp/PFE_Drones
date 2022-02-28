@@ -59,3 +59,4 @@ Essayer en laboratoire ( le code le plus récent n'a pas pû être testé )<br/>
   https://pjreddie.com/darknet/yolo/ <br/>
   https://www.youtube.com/watch?v=vDOkUHNdmKs&t=178s <br/>
   https://www.youtube.com/watch?v=rHY3T7-vK38&t=42s <br/>
+  https://github.com/tusharsarkar3/Detect_Drone <br/>
