@@ -46,3 +46,12 @@ Pistes d'amélioration :<br/>
 Envoyer les commandes directement au drone via des messages UDP -> meilleure précision et amplitude de mouvements<br/>
 Essayer d'avoir la cméra en direct sur l'ordinateur<br/>
 Essayer en laboratoire ( le code le plus récent n'a pas pû être testé )<br/>
+  
+  https://github.com/ultralytics/yolov5 <br/>
+  https://github.com/tzutalin/labelImg <br/>
+  https://github.com/pjreddie/darknet <br/>
+  https://github.com/AlexeyAB <br/>
+  https://medium.com/geekculture/yolov4-darknet-installation-and-usage-on-your-system-windows-linux-8dec2cea6e81 <br/>
+  https://pjreddie.com/darknet/yolo/ <br/>
+  https://www.youtube.com/watch?v=vDOkUHNdmKs&t=178s <br/>
+  https://www.youtube.com/watch?v=rHY3T7-vK38&t=42s <br/>
